@@ -1,0 +1,270 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\.2323993ab0e586bb48479960653e805ea5924cd6-audit.json",
+  "files": [
+    {
+      "date": 1686251968841,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-09-06-01-error.log",
+      "hash": "e97aadf8fa6ede0971451cc3012fbbcb32bb56b74307df55bcf04f695ce6944a"
+    },
+    {
+      "date": 1686254406235,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-09-06-02-error.log",
+      "hash": "4880086f3cbbfa14c963cb6b79db3255d51d33f956a5eda6626046a162d30ff2"
+    },
+    {
+      "date": 1686264832112,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-09-06-04-error.log",
+      "hash": "98490cd9d15266044a622b731e600e3f33e4391207b389affed0eb99c9c3308e"
+    },
+    {
+      "date": 1686265420330,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-09-06-05-error.log",
+      "hash": "b354d7d2d7e3677233313eebde5be12a1dc1f41fb27a6ecde0f4b8926e3481a8"
+    },
+    {
+      "date": 1686270529564,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-09-06-06-error.log",
+      "hash": "1bd97389c733b515fbd5c7dee67554ceb73b9a996acf7355995e83dc8d8dc072"
+    },
+    {
+      "date": 1686280407519,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-09-06-09-error.log",
+      "hash": "d0e41580899158b573a1a8eed6781e8bc77ef7015e1866591d676b6ac6f9d09c"
+    },
+    {
+      "date": 1686294592982,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-09-06-13-error.log",
+      "hash": "aa5751ff39907f866db13209d1590774e0a9a3d2fbcaa41b262101fab004121d"
+    },
+    {
+      "date": 1686333373750,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-09-06-23-error.log",
+      "hash": "26fa36af1ef3c749d9c01151f6006aa4bf27bd23759ee9920de46691b0e0d208"
+    },
+    {
+      "date": 1686333601116,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-10-06-00-error.log",
+      "hash": "812dcfe85f37490f1818194db574c94aaa2fd274649210a54bd125b1f75d3d9a"
+    },
+    {
+      "date": 1686337459391,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-10-06-01-error.log",
+      "hash": "c8d53ed5a29314eccd495fd8ca0d25173c0306a90c4f000381460eff93f73c75"
+    },
+    {
+      "date": 1686361183608,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-10-06-07-error.log",
+      "hash": "c5f81c0ad19620651dc06638b5ccc8bc3dba51abe90f0af0676ed1f0125b248b"
+    },
+    {
+      "date": 1686409642329,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-10-06-21-error.log",
+      "hash": "d72c9d63fc3943a8b1ab928a07f6eadd5ff4d7aa2c22e170ff0a3c3042915767"
+    },
+    {
+      "date": 1686415228946,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-10-06-22-error.log",
+      "hash": "30d1b36fa3ae2c1638d6fa466d521f42ea15fcdde8e3f162ba394267c6f9d957"
+    },
+    {
+      "date": 1686416487734,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-10-06-23-error.log",
+      "hash": "c3cf1d403297ed3628164cf72bd091e1ef5370a5fbbc51323c5704cd6e97b30a"
+    },
+    {
+      "date": 1686445380981,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-11-06-07-error.log",
+      "hash": "d3c2f0162d4b749f71a779b7992df061d4ac0dd4284f71a25cae4d01873eddc9"
+    },
+    {
+      "date": 1686451369700,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-11-06-08-error.log",
+      "hash": "7a3d9035066187412dbb1c4ece44b62d9e6ca01c14e4ee6bb31296430208c7aa"
+    },
+    {
+      "date": 1686452669619,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-11-06-09-error.log",
+      "hash": "85592e87ed146e84b11b4e114d5e194a687522f3efae8873c5828c97459b1741"
+    },
+    {
+      "date": 1686458542874,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-11-06-10-error.log",
+      "hash": "8fdf5b72af708f4405252df23c24b051a783b2e4eb4df48385568e7522dc2f1f"
+    },
+    {
+      "date": 1686508305488,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-12-06-00-error.log",
+      "hash": "7d08ed2a255b10940fb6c692c4cc17d6af5c932e3a574baad37ae1d4a7961f64"
+    },
+    {
+      "date": 1686511363338,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-12-06-01-error.log",
+      "hash": "dee967c0bde15676fd6e384240be5ef314351359c5a2b1b5c70b46b9292fa2a1"
+    },
+    {
+      "date": 1686514285271,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-12-06-02-error.log",
+      "hash": "7368106d774868c60aeb5802d01ab08370df97e2bc2b3069ec82e081dcdda0d2"
+    },
+    {
+      "date": 1686518181147,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-12-06-03-error.log",
+      "hash": "f3b0b8a8d1a14af59b248ec6019d1a5841aad3fd89347b9e9ada200c70c84c01"
+    },
+    {
+      "date": 1686520833811,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-12-06-04-error.log",
+      "hash": "aa0ef7758fde0e9b7c5c392b23f75bb444573c6f4d75960ce8ffa147ed028405"
+    },
+    {
+      "date": 1686524428733,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-12-06-05-error.log",
+      "hash": "623cecdb5813d289b1fdaf3473c4b571bb65489cfa1f0372e5a3003c89653ef1"
+    },
+    {
+      "date": 1686528798461,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-12-06-06-error.log",
+      "hash": "7d8d855bfb308cb809a94a9ccc1bb683d2dd5083e89f1146a275f9744acc2bf5"
+    },
+    {
+      "date": 1686534547024,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-12-06-07-error.log",
+      "hash": "246d6511fddceca306e19eb2c73bae49b733db25437586e033ce283ec5ac6a60"
+    },
+    {
+      "date": 1686535351997,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-12-06-08-error.log",
+      "hash": "7c393af277f000c0c9cecddde99bab84b7c688bb8f3b646e854150c292224a56"
+    },
+    {
+      "date": 1686539191527,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-12-06-09-error.log",
+      "hash": "c61db945269e5b80086ed43bbe9e402157a849c0d8436bf7213b040a7d8958ff"
+    },
+    {
+      "date": 1686596234727,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-13-06-00-error.log",
+      "hash": "760e1907cb963114cdae4ce1e885ef1d43b7881ca6151f0bf733983595efd903"
+    },
+    {
+      "date": 1686596511091,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-13-06-01-error.log",
+      "hash": "d794c17a823549266525b083f538a94b5d2a49b045408541b1840b415ee23636"
+    },
+    {
+      "date": 1686600460300,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-13-06-02-error.log",
+      "hash": "e65e1f43ca75e20227621ef39301dbfb8a83ed1d87a3130e7699a93de5f2c93a"
+    },
+    {
+      "date": 1686617536082,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-13-06-06-error.log",
+      "hash": "36d04a4f012b29550e73801b9c520c12f49ecc39505b747ea67408b5c89ea081"
+    },
+    {
+      "date": 1686618001181,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-13-06-07-error.log",
+      "hash": "fb662f8b831053a15988c1318b8bc5509b936035f9930d53d17a0f0ef2832785"
+    },
+    {
+      "date": 1686622238943,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-13-06-08-error.log",
+      "hash": "15f8b85ef43e5faa4613c101b819f06dbb77dcaf54deea06b19e1f6ba7655c20"
+    },
+    {
+      "date": 1686627347257,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-13-06-09-error.log",
+      "hash": "6b70b205050eafa1d8e267eb0729a9cc1d54ac1d16fc210b08448837ec6fd4d3"
+    },
+    {
+      "date": 1686628862023,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-13-06-10-error.log",
+      "hash": "2d0f12fafda346105fe8904db8aff15cc7bdcaeef034e8c71ef72c2770390c31"
+    },
+    {
+      "date": 1686632412766,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-13-06-11-error.log",
+      "hash": "c3d1cfeb4458fbd1fc33ba24d3bbbcf77b917a50084b057c7c9ab5790ba45097"
+    },
+    {
+      "date": 1686703470520,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-14-06-06-error.log",
+      "hash": "f8d92e0ecd2ceea9917d6fd35508cc2ec3dc6a44c4db440f5d2b59260481283c"
+    },
+    {
+      "date": 1686705745714,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-14-06-07-error.log",
+      "hash": "f04956ed777b02fd83fae20461a2285e8fe41b0c2d433b2d779e4f2931227676"
+    },
+    {
+      "date": 1686708110778,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-14-06-08-error.log",
+      "hash": "abc0b86da78f6811e0b8be4659e807177323b12ef5db25526cbc3ab0c6938141"
+    },
+    {
+      "date": 1686712619888,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-14-06-09-error.log",
+      "hash": "77db5f3e7df3c21ca33db68b543234e15d528bbdde88eecec6fdbd80da853d91"
+    },
+    {
+      "date": 1686717550730,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-14-06-10-error.log",
+      "hash": "dc7fe86c05f2eda555d359565e837e2f5897eaf4ae0f8746e65b19bf4e1fbc23"
+    },
+    {
+      "date": 1686720414305,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-14-06-11-error.log",
+      "hash": "b46572c15d85b96bc0e1d8ac1ebe220f27632b337fd016d78c9c3c61661370b1"
+    },
+    {
+      "date": 1686722766298,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-14-06-12-error.log",
+      "hash": "b7e13d984165f6e955447525f863ddf1613ae9601350b7ef69785d11c35b625a"
+    },
+    {
+      "date": 1686775922007,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-15-06-02-error.log",
+      "hash": "226b772e43b993ece1ff45ed98ecabe50e10aba3212e50dd000a8cd16cf63c3e"
+    },
+    {
+      "date": 1686776734759,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-15-06-03-error.log",
+      "hash": "0d313a26b56d38db36c8d604f1c594ee2c3bc82a48c451fa943aa6367f71d7d4"
+    },
+    {
+      "date": 1686782166887,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-15-06-04-error.log",
+      "hash": "2cc54c55f99648f5aacdb0a7d89248ffb19e768672db93d84f3a16a5ed3004e8"
+    },
+    {
+      "date": 1686784202665,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-15-06-05-error.log",
+      "hash": "52c4c37b88764ac4b4d431f5a1aac8c966a5d533054298a163ec99ee6ef73948"
+    },
+    {
+      "date": 1686787986824,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-15-06-06-error.log",
+      "hash": "fca718551fb12ab1c0b0d0a83343cf80846f6cda2881f2a295840075f9d0e309"
+    },
+    {
+      "date": 1686793645758,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-15-06-07-error.log",
+      "hash": "13b1fd931b9d8f3c8f8eef1d370861943f9bb2703d17a1dad2767468dfedc73b"
+    },
+    {
+      "date": 1686794890718,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-15-06-08-error.log",
+      "hash": "6eb724b36008c61a07d979b0e490ff82b94908fc6859bac5a63e769c91b19dd9"
+    },
+    {
+      "date": 1686798671140,
+      "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\errors\\SB-2023-15-06-09-error.log",
+      "hash": "5b0767dc7ed04ec93ab25da78e287d3e13097302be7a97129c0b66ed6c262ac0"
+    }
+  ],
+  "hashType": "sha256"
+}
