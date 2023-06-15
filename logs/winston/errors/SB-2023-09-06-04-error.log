@@ -1,0 +1,25 @@
+Fri Jun 09 2023 4:53:52 [Sharif Billah] error: 🧨 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Fri Jun 09 2023 4:54:19 [Sharif Billah] error: 🧨 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Fri Jun 09 2023 4:58:48 [Sharif Billah] error: 🧨 globalErrorHandler ~~ User validation failed: role: Path `role` is required.

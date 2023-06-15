@@ -1,0 +1,270 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\.e48afa659472d4a8b3b43e3b2e57d2dfdccea2ec-audit.json",
+    "files": [
+        {
+            "date": 1686251968837,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-09-06-01-success.log",
+            "hash": "96f9bb0316cbabfc5fe9fa1a5c12fc353ee520bd163b98e84c6ce6f483fc71c5"
+        },
+        {
+            "date": 1686254406231,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-09-06-02-success.log",
+            "hash": "dfa294ce78c41830664fcafd9d460059c3051f9a377174e8a5917e4c4d635b7e"
+        },
+        {
+            "date": 1686264848776,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-09-06-04-success.log",
+            "hash": "caabe34aee3ed53c1fedbd08a72f83ea67a2177569dd9448a7a71a9a716d43ef"
+        },
+        {
+            "date": 1686265420325,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-09-06-05-success.log",
+            "hash": "d85c6a17ba43e1c8e75ca9ae6eb293bdd644b174c753093e75a561a6141b677c"
+        },
+        {
+            "date": 1686270529547,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-09-06-06-success.log",
+            "hash": "02c33ad99e9080472393013f8610434f0a29c3c4c325b243783095c5bbd174e6"
+        },
+        {
+            "date": 1686280407513,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-09-06-09-success.log",
+            "hash": "cdff1f64ac2443f6cbb365d7e06feaad7a19bca99fe33228482338b9643a7cb7"
+        },
+        {
+            "date": 1686294592964,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-09-06-13-success.log",
+            "hash": "f407cb06c354d6a799cc9754bc8eddb4df11718ffeaaeec5409fd2e6c726d5c0"
+        },
+        {
+            "date": 1686333373730,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-09-06-23-success.log",
+            "hash": "316f70992c79db20baea7f30a8cf01aaf4e3e646f29f9fe322e50e2fb58cd526"
+        },
+        {
+            "date": 1686333601113,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-10-06-00-success.log",
+            "hash": "073b5a3196802e17cff07abce872625cb680a611360a9480850196be53af8893"
+        },
+        {
+            "date": 1686337459386,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-10-06-01-success.log",
+            "hash": "1a663688bde958d85b474199f04468ff0299cf77baad7e4ca78a01ae3e611215"
+        },
+        {
+            "date": 1686361183605,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-10-06-07-success.log",
+            "hash": "380370366499ab7fd1fb08424c17f524f3e839373a7096c22d8eebb415702a64"
+        },
+        {
+            "date": 1686409642322,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-10-06-21-success.log",
+            "hash": "c901428648b3721a69abe56505a9fd7ec65ad8a6aaba17d60a66583b92ae473e"
+        },
+        {
+            "date": 1686415228941,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-10-06-22-success.log",
+            "hash": "bdb54e6bdf0170345ddfdf0ecd4d8cc21487b96bd8105a462bc7cb11a9122b01"
+        },
+        {
+            "date": 1686416487730,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-10-06-23-success.log",
+            "hash": "0a464b1442e3e88b8b05a5801dd9e90c6e8a447886c78b009a5b8365fd9979ae"
+        },
+        {
+            "date": 1686445380974,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-11-06-07-success.log",
+            "hash": "70be87657e5159e3271e027d5c2766410192e8b72cad6554be0009621e3111df"
+        },
+        {
+            "date": 1686451369626,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-11-06-08-success.log",
+            "hash": "afa48d473024a070d9d16a906e40e0a36b52c4d80be37c62a44b9132c985aceb"
+        },
+        {
+            "date": 1686452669613,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-11-06-09-success.log",
+            "hash": "3d5b20d5e6fd1a3fbc68109d50ae222c03c7a616d032f542e021cf36d73345be"
+        },
+        {
+            "date": 1686458542871,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-11-06-10-success.log",
+            "hash": "61331122aaf1aedaaee31e4d3eef63d694bae52e11fd18d1fa56589cf4ef9dd3"
+        },
+        {
+            "date": 1686508305442,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-12-06-00-success.log",
+            "hash": "056d7f62fd17acac9cabc8fdff772e951e238f24f01e4e6d4b0370818f64bef2"
+        },
+        {
+            "date": 1686511363334,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-12-06-01-success.log",
+            "hash": "79888d9e809966a3c7f50e4b8dcf64d37956ad9eae809a91830dd1aa1d6294a2"
+        },
+        {
+            "date": 1686514285268,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-12-06-02-success.log",
+            "hash": "f84110eae5a0ab456502b661f981a01c6d2a810225b584934b0a1566c9939151"
+        },
+        {
+            "date": 1686518181142,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-12-06-03-success.log",
+            "hash": "60fc5e000e50852d83bac0fecef87c8f3a54039e3303b6f80c833f26fa6905aa"
+        },
+        {
+            "date": 1686520833808,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-12-06-04-success.log",
+            "hash": "6548d3e0c18f05441e99adc2fab56c71e3ea8771b3d0a91d0cab2d12018b5e85"
+        },
+        {
+            "date": 1686524428729,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-12-06-05-success.log",
+            "hash": "9f5feb0b2fcacda66f0c8150689d4a0f56357f30a86ec0da2ec6040d5f6d7ab9"
+        },
+        {
+            "date": 1686528798456,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-12-06-06-success.log",
+            "hash": "c6e4eafa03b915777989c57d476b1536c2aedd589bae27e1f62fe51ceb9005b6"
+        },
+        {
+            "date": 1686534547021,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-12-06-07-success.log",
+            "hash": "8d8161bde231c85b2176adb24c6bfa09d43792c78cfbf63b45a68d3f623b39be"
+        },
+        {
+            "date": 1686535351993,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-12-06-08-success.log",
+            "hash": "faa6255b36f589eb9bdde81f6becf541e8fa788db1a128a7b8e1d378b2245798"
+        },
+        {
+            "date": 1686539191524,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-12-06-09-success.log",
+            "hash": "ff4e71df413251b350d16ceb6b765967569a90c1a444f6b3ef428e0e6bf07465"
+        },
+        {
+            "date": 1686596234713,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-13-06-00-success.log",
+            "hash": "61a49e9a42f4420b7d0a61c81e29f95c098a20c623150fad7ba1f3611aead0e6"
+        },
+        {
+            "date": 1686596511087,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-13-06-01-success.log",
+            "hash": "bde327838ed07fe4e4d6fc1617840fbabea584a46e225fa79abda7f400860089"
+        },
+        {
+            "date": 1686600460294,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-13-06-02-success.log",
+            "hash": "43885ac9a22d341563dacfa176c5776c8cf394f6818901ef9ccfcfa759ad0c38"
+        },
+        {
+            "date": 1686617536078,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-13-06-06-success.log",
+            "hash": "d69a86f3d62054a7cf18f0398bebe8b7ed47aa6ccf8443f497b73d7feb55a2b3"
+        },
+        {
+            "date": 1686618001174,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-13-06-07-success.log",
+            "hash": "8b7ddb87d3d69ba384b0d999e4e9062df25fe281218c15438e4c5f062eae089e"
+        },
+        {
+            "date": 1686622238937,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-13-06-08-success.log",
+            "hash": "058208c3b31d0d68c5cadf4ec96ec7afcf82ff64456269155a023b11750a4575"
+        },
+        {
+            "date": 1686627347230,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-13-06-09-success.log",
+            "hash": "b9b0229aed630b90d34ac17159cfa8129edcff9696dce32c8455839312b2a64e"
+        },
+        {
+            "date": 1686628862018,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-13-06-10-success.log",
+            "hash": "9815f305cf103192cff630bdacaa2881011d0a9d831fa322de15755f0e4a2a16"
+        },
+        {
+            "date": 1686632412762,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-13-06-11-success.log",
+            "hash": "730c1427a17dad05d82ae05b1e40b23377d5b274226adee1f5fb21148b8b18b0"
+        },
+        {
+            "date": 1686703470507,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-14-06-06-success.log",
+            "hash": "a08b5ce4f1a844b0faee944763797ac3fdf3acda321a25b1f281d2f3b9b8cc7c"
+        },
+        {
+            "date": 1686705745711,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-14-06-07-success.log",
+            "hash": "8d8433159dc1ef2db51b4cefbea4cee4c0ebcde5b3c78cc4bbea541fbbce51f6"
+        },
+        {
+            "date": 1686708110774,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-14-06-08-success.log",
+            "hash": "c76382492b5df71e70ce9da9dd66f7f17fe0b9b26e21d3639fcd262d01b93f5b"
+        },
+        {
+            "date": 1686712619832,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-14-06-09-success.log",
+            "hash": "41ddfc3cfd58164440b05b682fe0139b0bfe5c5c917674d23a3d50518aef9abc"
+        },
+        {
+            "date": 1686717550721,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-14-06-10-success.log",
+            "hash": "c4f3f5a29a9cc1376109721813c76b8bd82eb0a270a168ddea6c87245c496a65"
+        },
+        {
+            "date": 1686720414301,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-14-06-11-success.log",
+            "hash": "46c41d12d0db320eebc6a89ebc27e36c3a588c28e146772cdde5b76d0d890dde"
+        },
+        {
+            "date": 1686722766295,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-14-06-12-success.log",
+            "hash": "624c173e056969e905946f5f934d597cb6d7171ff0485fe1129f982345bc2aaf"
+        },
+        {
+            "date": 1686775921985,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-15-06-02-success.log",
+            "hash": "5cdb56edc8d92c187823703ca98585ae48cfe2d42d6bbfbe168810457383fd5c"
+        },
+        {
+            "date": 1686776734755,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-15-06-03-success.log",
+            "hash": "80c48ff441ddee5c536f4be61b64419407a79c7fe4f256c0757033f46b173651"
+        },
+        {
+            "date": 1686782166882,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-15-06-04-success.log",
+            "hash": "b6918edad19e9a182549f66f0d02eb3275ca9126dbf66a0838534704694a48dc"
+        },
+        {
+            "date": 1686784202662,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-15-06-05-success.log",
+            "hash": "3704c9b73c2e79705df6611971a81904ae96114f7f26c8806e02350d45aba39b"
+        },
+        {
+            "date": 1686787986819,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-15-06-06-success.log",
+            "hash": "34d2eeb1cf228b21a68ce826b8cd4ffa6222af77be61edfb116b7c5f3e776bd4"
+        },
+        {
+            "date": 1686793645736,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-15-06-07-success.log",
+            "hash": "b1f988ccd3793fe3722782d7ad16b352391f6cf86150fbcbb4f1b7ac87a2c325"
+        },
+        {
+            "date": 1686794890714,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-15-06-08-success.log",
+            "hash": "45e5152c8f0ee352066df0673089017b4563ebad33bdbf7cb17952b808b1b0ba"
+        },
+        {
+            "date": 1686798671136,
+            "name": "H:\\next lebel web development\\module-11-university-management-auth-service\\logs\\winston\\successes\\SB-2023-15-06-09-success.log",
+            "hash": "9279546bbae396bc403d6ca67eedd239c27a45ceac8837a4dcbca57f1b096409"
+        }
+    ],
+    "hashType": "sha256"
+}
